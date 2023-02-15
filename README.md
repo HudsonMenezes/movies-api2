@@ -1,5 +1,5 @@
 
-# Movies API ⚠
+# Movies API ✔️
 
 Projeto feito para estudos no qual foi feita uma consulta à uma API externa de filmes onde pude aprender e desenvolver técnicas de Rotas no React.
 
